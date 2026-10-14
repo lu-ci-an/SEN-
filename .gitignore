@@ -1,0 +1,11 @@
+# Web rebuild
+web/node_modules/
+web/.next/
+web/out/
+web/next-env.d.ts
+web/*.tsbuildinfo
+.env*
+!.env.example
+# Flutter generated files
+.dart_tool/
+build/
