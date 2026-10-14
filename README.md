@@ -28,7 +28,7 @@ npm run build
 npm start
 ```
 
-For Next.js hosting, set the project root to `web`. No environment variables or database are needed. This repository does not yet have a verified public deployment of the web rebuild.
+For Next.js hosting, set the project root to `web`. No environment variables or database are needed. Try the web calculator in the [live portfolio](https://marvellous-oyediran-portfolio.vasthinny.chatgpt.site/projects/calculator/).
 
 ## Original school project
 
